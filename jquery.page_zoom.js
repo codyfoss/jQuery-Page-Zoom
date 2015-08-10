@@ -1,5 +1,5 @@
 /*!
- * jQuery Page Zoom Plugin v1.0
+ * jQuery Page Zoom Plugin v1.1
  *
  * Description:
  * Allow the user to zoom in or out on the page using links or buttons (anything that will accept an onClick event).
