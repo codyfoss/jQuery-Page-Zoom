@@ -1,4 +1,4 @@
-jQuery-Page-Zoom-plugin
+jQuery Page Zoom plugin
 =======================
 
 Allow the user to zoom in or out on the page using links or buttons (anything that will accept an onClick event). If the js-cookie library is available, the zoom level is saved to a cookie. This saves visitors from having to reapply the zoom level on every page load.
@@ -60,4 +60,4 @@ Pull requests are welcome!
 
 ## License
 
-This library is being provided as is under an MIT license. See LICENSE.txt for the details of that.
+This library is being provided as is under an MIT license. See LICENSE-MIT.txt for the details of that.
