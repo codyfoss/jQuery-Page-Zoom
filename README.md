@@ -21,10 +21,10 @@ Add jQuery, js-cookie and jQuery Page Zoom to your page.
 Set up a few links or buttons on your page that will act as  the controls.
 
 	<ul>
-		<li><a href="#" class="zoom_in">Zoom In</a><\li>
-		<li><a href="#" class="zoom_out">Zoom Out</a><\li>
-		<li><a href="#" class="zoom_reset">Reset Zoom</a><\li>
-	<\ul>
+		<li><a href="#" class="zoom_in">Zoom In</a></li>
+		<li><a href="#" class="zoom_out">Zoom Out</a></li>
+		<li><a href="#" class="zoom_reset">Reset Zoom</a></li>
+	</ul>
 
 
 Then call the plugin to attach the zoom functions to the links.
