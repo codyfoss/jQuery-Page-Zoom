@@ -28,7 +28,7 @@
 			// set up
 		    init : function( options ) {
 
-				if($.isArray(options)){ // if an array was sent, merge it with settings
+				if($.type(options) == 'object'){ // if an object with options was sent, merge it with settings
 
 					settings = $.extend( settings, options);
 
@@ -113,7 +113,7 @@
 		    }
 		};
 
-		methods.init();
+		methods.init(options);
 
 	};
 })( jQuery );
